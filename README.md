@@ -106,6 +106,7 @@ le référencement ou votre HTML.
   }
 }
 ```
+
 ## Why SCSS is better than CSS with BEM
 
 ```CSS
@@ -164,6 +165,7 @@ Le `EM` à contrario du `REM` se base quant à lui sur la taille de son parent d
   }
 }
 ```
+
 ## vm
 
 ## Les Grilles avec Flexboxgrid
